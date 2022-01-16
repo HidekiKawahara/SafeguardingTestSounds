@@ -1,5 +1,19 @@
 # SafeguardingTestSounds
-Acoustic measurement using music pieces
+Acoustic measurement using music pieces (and any other sounds).
+
+## Directories
+* app Acoustic measurement application
+* test Warehouse of old test codes
+
+## Application
+* dfta5sp.mlapp MATLAB application  
+
+### Install
+Copy three folders to set working directories
+
+### How to start
+Type "dfta5sp" inside MATLAB command window.
+
 ## Technical reference
 Please refer to the following article:
 
@@ -7,5 +21,5 @@ Please refer to the following article:
 
 ## Release memo
 
- Added MATLAB script
+ Kick start by adding application
  

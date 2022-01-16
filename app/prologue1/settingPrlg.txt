@@ -1,0 +1,14 @@
+Type Sample sound
+Credit RWC music database
+Files 4
+pl8s01.wav
+pl8s02.wav
+pl8s03.wav
+pl8s04.wav
+Comment:
+Excerpted from RWC-MDB-P-2001-M01 (07 track 07.aif).
+References:
+https://staff.aist.go.jp/m.goto/RWC-MDB/
+https://staff.aist.go.jp/m.goto/RWC-MDB/index-j.html
+[1] Masataka Goto, Hiroki Hashiguchi, Takuichi Nishimura, and Ryuichi Oka: RWC Music Database: Popular, Classical, and Jazz Music Databases, Proceedings of the 3rd International Conference on Music Information Retrieval (ISMIR 2002), pp.287-288, October 2002. 
+[2] Masataka Goto: Development of the RWC Music Database, Proceedings of the 18th International Congress on Acoustics (ICA 2004), pp.I-553-556, April 2004. (Invited Paper) 

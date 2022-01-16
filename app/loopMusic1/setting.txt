@@ -1,0 +1,7 @@
+Type Loop music
+Credit Kazuki Matsumoto
+Files 4
+holiday.wav
+laboratory.wav
+legend.wav
+space.wav
