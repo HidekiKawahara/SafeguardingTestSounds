@@ -14,6 +14,8 @@ Copy three folders to set working directories
 ### How to start
 Type "dfta5sp" inside MATLAB command window.
 
+[YouTube video tutorial][https://www.youtube.com/watch?v=HN4ozt_YSdc&list=PLqr7NXdG4BylP8UEHn8lsSF4zK4KE3kw_&index=2]
+
 ## Technical reference
 Please refer to the following article:
 
