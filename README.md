@@ -1,9 +1,8 @@
 # SafeguardingTestSounds
 Acoustic measurement using music pieces (and any other sounds).
 
-The following video have a tutorial
+The following video have a tutorial (with English subtitle)
 [![YouTube video tutorial](acousticTool.jpg)](https://youtu.be/RVTS7mW7ikc)
-
 [Japanese subtitled movie](https://youtu.be/HN4ozt_YSdc)
 
 ## Directories
