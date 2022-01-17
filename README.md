@@ -17,6 +17,9 @@ Copy three folders to set working directories
 ### How to start
 Type "dfta5sp" inside MATLAB command window.
 
+### Caveat: 
+This tool is for my research and self-education (of myself). The procedures and derived values do not obey established standards. Do not use these for critical issues and decision making.
+
 ## Technical reference
 Please refer to the following article:
 
