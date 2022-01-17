@@ -3,6 +3,7 @@ Acoustic measurement using music pieces (and any other sounds).
 
 The following video have a tutorial
 [![YouTube video tutorial](acousticTool.jpg)](https://www.youtube.com/watch?v=HN4ozt_YSdc&list=PLqr7NXdG4BylP8UEHn8lsSF4zK4KE3kw_&index=2)
+Currently (17/Jan./2022) it only has Japanese subtitle. I will update the tool and the video by 30/Jan./2022.
 
 ## Directories
 * app Acoustic measurement application
