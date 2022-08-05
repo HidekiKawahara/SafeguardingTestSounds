@@ -28,5 +28,7 @@ Please refer to the following article:
 
 ## Release memo
 
+ Added looseSynchTest.m for smoothed transfer function measurement
+
  Kick start by adding application
  
